@@ -5,3 +5,4 @@
 
 En cierto sentido, esto se parece a lo que sucede con los atractores extraños en teoría del caos. Evolucionan, y en muchas ocasiones, regresan sobre sus propios pasos para dar paso a algo nuevo, que se parece a lo anterior, pero en realidad es algo diferente, y a veces, muy diferente.
 
+[![Título del Video](https://img.youtube.com/vi/CuOaQNQiEXU/0.jpg)](https://www.youtube.com/watch?v=CuOaQNQiEXU)
