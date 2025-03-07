@@ -13,4 +13,4 @@ En cierto sentido, esto se parece a lo que sucede con los atractores extraños e
   </a>
 </div>
 
-***Este video muestra un #Atractor Extraño# 
+**Este video muestra un <<Atractor Extraño>> 
