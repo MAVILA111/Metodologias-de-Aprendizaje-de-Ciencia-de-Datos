@@ -12,3 +12,5 @@ En cierto sentido, esto se parece a lo que sucede con los atractores extraños e
          src="https://img.youtube.com/vi/CuOaQNQiEXU/0.jpg">
   </a>
 </div>
+
+***Este video muestra un #Atractor Extraño# 
