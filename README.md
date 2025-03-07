@@ -8,7 +8,7 @@ En cierto sentido, esto se parece a lo que sucede con los atractores extraños e
 <div align="center">
   <a href="https://www.youtube.com/watch?v=CuOaQNQiEXU" target="_blank">
     <img align="center" width="68%" alt="Miniatura del video de YouTube" 
-         title="Haz clic para ver el video en YouTube" 
+         title="Digítame" 
          src="https://img.youtube.com/vi/CuOaQNQiEXU/0.jpg">
   </a>
 </div>
