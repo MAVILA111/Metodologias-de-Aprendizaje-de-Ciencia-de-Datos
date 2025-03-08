@@ -13,4 +13,6 @@ En cierto sentido, esto se parece a lo que sucede con los atractores extraños e
   </a>
 </div>
 
-**Este video muestra un <<Atractor Extraño>>** 
+
+Este video muestra un *Atractor Extraño*
+Un atractor extraño es un objeto matemático que muestra la representación "espacial" de los estados de un sistema, normalmente dinámico, no lineal y en el que se puede ver en acción las reglas del *Caos*: Repetición, Bufircación, y el *Efecto Mariposa*. 
